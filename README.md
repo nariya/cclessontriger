@@ -9,10 +9,12 @@ gmailの方で,cclessonのメールを受け取った際に"cclesson"と言う�
 
 
 フィルタ説明
+
 ![](https://raw.githubusercontent.com/nariya/cclessontriger/master/screen1.png)
 
 画像２
+
 ![](https://raw.githubusercontent.com/nariya/cclessontriger/master/screen2.png)
 
 
-あとは好きなスクリプトにcode.gsを書いて, 1分感覚とかで走らせたりして下さい。以上
+あとは好きなスクリプトにcode.gsを書いて, 1分間隔とかで走らせたりして下さい。以上
